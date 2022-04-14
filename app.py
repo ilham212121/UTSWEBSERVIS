@@ -1,6 +1,7 @@
 # 19090064 Muhamad Ilham Maulana F S
 # 19090141 Abbror Sholakhudin 
 # 19090121 Moh Farid Nurul Ikhsani
+# 18090037 Solehudin Allah Rezi
 from pickle import TRUE
 from flask import Flask,request,jsonify
 import random, os, string
